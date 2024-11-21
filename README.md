@@ -104,7 +104,7 @@ Bonus features include integration with Laravel Sail for Docker, Livewire for in
 - **Endpoint**: `/trending`
 - **Response**: JSON object containing a list of trending movies.
 
-## Additional Feature Features
+## Additional Future Features
 - **SearchSuggestion**
 - **AddPagination**
 - **GetMorePosterimages**
